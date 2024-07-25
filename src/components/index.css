@@ -1,0 +1,15 @@
+img{
+    width: 25%;
+}
+.products-table{
+    border: 1px solid;
+}
+.products-table td{
+    border: 1px solid;
+}
+.loading-div{
+    font-weight: 16px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
